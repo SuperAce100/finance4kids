@@ -1,0 +1,1 @@
+mysqldump --defaults-extra-file=local.cnf f4kids > local_data.sql

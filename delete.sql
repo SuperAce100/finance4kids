@@ -1,0 +1,1 @@
+DELETE FROM users WHERE username = 'I can meet you at 8';

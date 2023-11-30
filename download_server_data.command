@@ -1,0 +1,1 @@
+mysqldump --defaults-extra-file=server.cnf heroku_3342170e85eae9d > server_data.sql

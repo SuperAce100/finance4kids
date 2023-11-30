@@ -1,0 +1,1 @@
+mysql --defaults-extra-file=local.cnf f4kids < server_data.sql
